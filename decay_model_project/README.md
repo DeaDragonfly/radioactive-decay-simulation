@@ -13,16 +13,16 @@ The simulation also plots and compares the results on the same graph.
 - Automatically saves the result as a plot.png file.
 
 ## Installation and Running:
-# Clone the repository
+### Clone the repository
 git clone https://github.com/DeaDragonfly/radioactive-decay-simulation.git
 
-# Navigate into the project folder
+### Navigate into the project folder
 cd radioactive-decay-simulation
 
-# Install required packages
+### Install required packages
 pip install matplotlib numpy
 
-# Run the program
+### Run the program
 python decay_simulation.py
 
 ## Model:
