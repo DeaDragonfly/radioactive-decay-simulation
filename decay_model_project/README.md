@@ -14,7 +14,7 @@ The simulation also plots and compares the results on the same graph.
 
 ## Installation and Running:
 # Clone the repository
-git clone https://github.com/your-github-DeaDragonfly/radioactive-decay-simulation.git
+git clone https://github.com/DeaDragonfly/radioactive-decay-simulation.git
 
 # Navigate into the project folder
 cd radioactive-decay-simulation
